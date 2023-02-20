@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Jatin Prakash Choubey.
 
 - I Love to encounter new problems
-- I’m interested in learning new technologies
-- I’m currently learning Blockchain technology through Ethereum Network
+- Interested in learning new technologies
+- Currently learning Blockchain technology through Ethereum Network and working on Smart Contracts
 - How to reach me. GMAIL:- jatinchoubey29@gmail.com
 - In-depth knowledge of C++
 
