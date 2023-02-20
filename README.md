@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin Prakash Choubey</h1>
 <h3 align="center">I Love to encounter new problems.</h3>
-<img align= "right" alt="Coding" width="400" src"https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+![giphy](https://user-images.githubusercontent.com/89119355/220056393-4fb5663e-8c0f-4579-9e0c-b45a9c29b117.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-choubey&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-choubey" /> </p>
 
