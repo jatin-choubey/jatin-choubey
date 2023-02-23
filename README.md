@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Decentralized Applications**
 
-- 🌱 I’m currently learning **Block Chain technology (Ethereum Network)**
+- 🌱 I’m currently learning **Block Chain technology**
 
 - 🤝 I am looking to collaborate on [J_Shell (A command line shell)](https://github.com/jatin-choubey/J_Shell)
 
